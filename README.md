@@ -20,6 +20,7 @@ The model was trained using 5-fold cross-validation with the Adam optimizer. Ear
 
 ## Interactive User Interface
 An interactive UI has been developed for predicting spin values, integrating various Python libraries for machine learning, numerical operations, and graphical display.
+review the code on *mainUI.py*
 
 ## Results
 The model showed a significant improvement in predicting the outcomes of quantum experiments, with an R^2 value reaching up to 0.97.
