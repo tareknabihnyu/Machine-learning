@@ -5,9 +5,6 @@
 
 This repository contains the code and documentation for a machine learning project aimed at simulating quantum experiments. The project utilizes deep learning techniques to streamline traditional methods, which are often computationally intensive and time-consuming. The model offers increased efficiency and accuracy, providing insightful visualizations and enabling simultaneous comparison of parameters.
 
-### Project Video
-For a detailed description of the project, please refer to [this video](<link_to_video>).
-
 ## Methods
 
 ### Data Collection
