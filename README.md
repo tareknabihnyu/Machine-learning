@@ -13,6 +13,8 @@ Data was generated from the SpinEvolution platform, using NYU's Jubail supercomp
 ### Model Architecture
 The model employs a sequential architecture with multiple layers, including batch normalization and dropout mechanisms. It's designed to predict the spin outcome based on the given parameters.
 
+You can see the model training code in *main.py*
+
 ### Training and Hyperparameter Tuning
 The model was trained using 5-fold cross-validation with the Adam optimizer. Early stopping was employed to prevent overfitting.
 
