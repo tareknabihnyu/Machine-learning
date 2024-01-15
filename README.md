@@ -21,11 +21,12 @@ The model was trained using 5-fold cross-validation with the Adam optimizer. Ear
 ## Interactive User Interface
 An interactive UI has been developed for predicting spin values, integrating various Python libraries for machine learning, numerical operations, and graphical display.
 review the code on *mainUI.py*
-![Hello37 Image](./images/hello37.png)
+![User Image](./images/user.png)
+
 
 ## Results
 The model showed a significant improvement in predicting the outcomes of quantum experiments, with an R^2 value reaching up to 0.97.
-![User Image](./images/user.png)
+![Hello37 Image](./images/hello37.png)
 
 ## Discussion
 The deep learning model offers a more efficient and scalable solution compared to traditional models. Adjustments in hyperparameters and the use of K-fold cross-validation were key in enhancing model accuracy.
