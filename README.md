@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains the code and documentation for a machine learning project aimed at simulating quantum experiments. The project utilizes deep learning techniques to streamline traditional methods, which are often computationally intensive and time-consuming. The model offers increased efficiency and accuracy, providing insightful visualizations and enabling simultaneous comparison of parameters.
+This repository contains the code and documentation for a machine learning project aimed at simulating quantum experiments. Currently, I am also writing a research paper on this topic, which details the methodologies, findings, and implications of this project. The project utilizes deep learning techniques to streamline traditional methods, which are often computationally intensive and time-consuming. The model offers increased efficiency and accuracy, providing insightful visualizations and enabling simultaneous comparison of parameters.
 
 ## Methods
 
@@ -32,4 +32,4 @@ The model showed a significant improvement in predicting the outcomes of quantum
 The deep learning model offers a more efficient and scalable solution compared to traditional models. Adjustments in hyperparameters and the use of K-fold cross-validation were key in enhancing model accuracy.
 
 ## Conclusion
-This project highlights the potential of machine learning in revolutionizing quantum experiment simulations. Future work may focus on refining the model, exploring other architectures, and potentially integrating quantum computing.
+This project highlights the potential of machine learning in revolutionizing quantum experiment simulations. In addition to the ongoing development of the model, I am currently writing a research paper that delves deeper into the theoretical and practical aspects of this work. The paper aims to provide a comprehensive overview of the methodologies and results, and to discuss the broader implications in the field of quantum simulations. Future work may focus on refining the model, exploring other architectures, and potentially integrating quantum computing.
